@@ -2,11 +2,11 @@
 
   <!-- Header Banner / Typing Effect -->
   <a href="https://github.com/Pranav7758051011">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=650&height=70&lines=Hi%2C+I'm+Pranav+Bade+%F0%9F%91%8B;Full-Stack+%26+Generative+AI+Engineer+%F0%9F%9A%80;Building+Scalable+Web%2C+Mobile+%26+AI+Apps+%E2%9C%A8;Google+Gemini+2.0+Flash+Integrator+%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=650&height=70&lines=Hi%2C+I'm+Pranav+Bade+%F0%9F%91%8B;Full-Stack+%26+Generative+AI+Engineer+%F0%9F%9A%80;Building+Scalable+Web%2C+Mobile+%26+AI+Apps+%E2%9C%A8;Crafting+Production-Ready+Software+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Full-Stack Developer</strong> • <strong>Generative AI & LLM Solutions</strong> • <strong>Cross-Platform Mobile Engineer</strong>
+    <strong>Full-Stack Developer</strong> • <strong>Generative AI & LLM Architectures</strong> • <strong>Cross-Platform Mobile Engineer</strong>
   </p>
 
   <p align="center">
@@ -15,11 +15,11 @@
     <a href="https://github.com/Pranav7758051011"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
-  <!-- Dynamic Views Badge -->
+  <!-- Dynamic Views & Status Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Pranav7758051011&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Building_%26_Shipping_%F0%9F%94%A5-00c853?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Open%20For-Hackathons_%26_Collaborations-blueviolet?style=flat-square" alt="Collaborations" />
+    <img src="https://img.shields.io/badge/Open%20For-Opportunities_%26_Collaborations-blueviolet?style=flat-square" alt="Collaborations" />
   </p>
 
 </div>
@@ -33,16 +33,16 @@ const pranavBade = {
   pronouns: "He/Him",
   focus: ["Generative AI Applications", "Full-Stack Web Architectures", "Cross-Platform Mobile"],
   currentStack: ["React 19", "Vite", "Node.js / Express", "Python (Flask)", "Firebase", "Capacitor"],
-  aiTooling: ["Google Gemini 2.0 Flash", "Prompt Engineering", "Semantic Matching & Structured Outputs"],
+  aiTooling: ["Large Language Models (LLMs)", "Prompt Engineering", "Semantic AI & Structured Outputs"],
   superpower: "Transforming complex business problems into production-grade, intuitive web & mobile apps in record time",
-  hackathonMindset: "Rapid prototyping, zero friction deployment, and high-impact AI integrations"
+  engineeringMindset: "Rapid prototyping, zero friction deployment, and robust, maintainable architecture"
 };
 ```
 
-* 🚀 **Currently Building:** AI-integrated workflows and scalable marketplace infrastructure using **Google Gemini 2.0 Flash** and **React 19**.
+* 🚀 **Currently Building:** AI-integrated workflows, high-performance web applications, and scalable platforms using **React 19**, **Node.js**, and modern **LLM architectures**.
 * 🧠 **Specialized In:** End-to-end full-stack architectures, payment gateways (Razorpay HMAC verification), milestone escrow state machines, and responsive reactive UIs.
-* 🎯 **Hackathon Focus:** Designing robust AI solutions that combine deep semantic intelligence with seamless UX and native mobile accessibility.
-* ⚡ **Fun Fact:** I love combining high-performance code with fluid micro-animations and clean glassmorphism aesthetics.
+* 🎯 **Engineering Focus:** Designing robust AI solutions that combine deep semantic intelligence with seamless UX and native mobile accessibility.
+* ⚡ **Design Philosophy:** Combining high-performance code with fluid micro-animations and clean modern aesthetics.
 
 ---
 
@@ -52,7 +52,7 @@ const pranavBade = {
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **🧠 Generative AI & ML** | `Google Gemini 2.0 Flash` `Gemini API` `Prompt Engineering` `Structured JSON Outputs` `Semantic Embeddings` |
+| **🧠 Generative AI & ML** | `Large Language Models (LLMs)` `Prompt Engineering` `Structured JSON Outputs` `Semantic Embeddings` `AI Agents` |
 | **💻 Frontend Development** | `React 19` `JavaScript (ES6+)` `Vite` `Tailwind CSS v4` `Framer Motion` `HTML5` `CSS3` |
 | **⚙️ Backend & APIs** | `Node.js` `Express.js` `Python (Flask)` `RESTful APIs` `HMAC SHA-256 Crypto` `jsPDF Engine` |
 | **🗄️ Database & Cloud** | `Cloud Firestore` `MySQL` `Firebase Auth` `Firebase Storage` `Firebase Edge Hosting` |
@@ -71,15 +71,15 @@ const pranavBade = {
       <h3 align="center">🚀 DevMatch — AI Developer Marketplace</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Gemini_2.0_Flash-8E75C2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Semantic_Matching-8E75C2?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
       </p>
       <p>
-        An enterprise-grade freelance marketplace featuring <strong>Google Gemini 2.0 Flash Deep Fit Semantic Analysis</strong>, an automated <strong>4x25% progressive milestone escrow state machine</strong>, and client-side vector <strong>PDF legal agreement generation</strong>.
+        An enterprise-grade freelance marketplace featuring <strong>Deep Semantic Candidate Fit Analysis</strong>, an automated <strong>4x25% progressive milestone escrow state machine</strong>, and client-side vector <strong>PDF legal agreement generation</strong>.
       </p>
       <ul>
-        <li>✨ <strong>Gemini AI Integration:</strong> Deep Candidate Fit reasoning, Gap Analysis & automated 4-stage milestone breakdown.</li>
+        <li>✨ <strong>AI Matching Engine:</strong> Deep Candidate Fit reasoning, Gap Analysis & automated 4-stage milestone breakdown.</li>
         <li>💳 <strong>Financial Engine:</strong> Razorpay integration with server-side HMAC-SHA256 verification.</li>
         <li>📱 <strong>Cross-Platform:</strong> Packaged native Android APK (~5.9MB) via Capacitor 8.</li>
       </ul>
@@ -145,7 +145,7 @@ const pranavBade = {
 ### 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  I am actively seeking hackathon collaborations, high-impact AI development roles, and innovative project partnerships.
+  I am actively seeking software engineering opportunities, high-impact AI development roles, and innovative project partnerships.
 </p>
 
 <p align="center">
@@ -155,5 +155,5 @@ const pranavBade = {
 </p>
 
 <div align="center">
-  <sub>Built with ❤️ & dedication by <strong>Pranav Bade</strong> • Ready to build something extraordinary at <strong>CSI KJSSE Gemini HackDay 2.0</strong> 🚀</sub>
+  <sub>Crafted with ❤️ & dedication by <strong>Pranav Bade</strong> • Always building, iterating, and shipping impactful software 🚀</sub>
 </div>
