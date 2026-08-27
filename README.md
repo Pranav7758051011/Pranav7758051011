@@ -45,7 +45,7 @@ const pranavBade = {
 };
 ```
 
-* 🚀 **Flagship Build:** Co-founder & Systems Architect behind **[AfterMe](https://github.com/rajdeep-r24/AfterMe)** — an ambient AI memory layer combining Google Gemini Multimodal AI, Leaflet Dark Matter radar, and proactive GPS geofencing alarms.
+* 🚀 **Flagship Build:** Co-founder & Systems Lead behind **[AfterMe](https://github.com/Pranav7758051011/AfterMe)** — an ambient AI memory layer combining Google Gemini Multimodal AI, Leaflet Dark Matter radar, and proactive GPS geofencing alarms.
 * 🧠 **Engineering Specialization:** Full-stack distributed architectures, real-time spatial calculations (Haversine math), cryptographic payment verification (Razorpay HMAC SHA-256), and milestone escrow state machines.
 * ⚡ **Frontend & Mobile Craft:** High-contrast obsidian dark mode, 60fps micro-animations, glassmorphism design systems, and cross-platform native compilation (Capacitor & React Native Expo).
 
@@ -92,7 +92,7 @@ const pranavBade = {
         <li>🗺️ <strong>Interactive Radar Map:</strong> Obsidian dark-matter canvas with live GPS pulsing beacon, geofence rings, and distance polylines.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/rajdeep-r24/AfterMe"><strong>⚡ Explore AfterMe Repository ➔</strong></a>
+        <a href="https://github.com/Pranav7758051011/AfterMe"><strong>⚡ Explore AfterMe Repository ➔</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
